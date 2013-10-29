@@ -6,15 +6,15 @@
     "version": "0.2.9",
     "repository" : {
         "type" : "git",
-        "url" : "https://github.com/caolan/async.git"
+        "url" : "git@github.com:kaelzhang/async.git"
     },
     "bugs" : {
-        "url" : "https://github.com/caolan/async/issues"
+        "url" : "git@github.com:kaelzhang/async/issues"
     },
     "licenses" : [
         {
             "type" : "MIT",
-            "url" : "https://github.com/caolan/async/raw/master/LICENSE"
+            "url" : "https://github.com/kaelzhang/async/raw/master/LICENSE"
         }
     ],
     "devDependencies": {
